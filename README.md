@@ -1,6 +1,9 @@
 # 100xdevs-git-tutorial
 
 
+first open source pr from a google meet
+=======
+
 Harshit Choudhary was here
 =======
 
@@ -24,5 +27,3 @@ Hi, Vasu this side new to webdev and linux
 Harshit Choudhary was here.
 
 test123
-
-
