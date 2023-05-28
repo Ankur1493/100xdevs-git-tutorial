@@ -4,3 +4,5 @@ Do share about this on discord,linkedin and twitter
 my handles:- 
 twitter username -- ankursharma1493
 linkedin handle  -- https://www.linkedin.com/in/ankur-sharma-b558891a0/
+
+Hi, Vasu this side new to webdev and linux
